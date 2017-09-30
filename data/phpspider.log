@@ -1,0 +1,32 @@
+
+[ YONEX(尤尼克斯) Spider ] is started...
+
+  * PHPSpider Version: 2.0.7
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php yonex.php stop" to quit. Start success.
+
+2017-09-27 13:12:44 [debug] Find scan page: http://www.yonex.cn/sports/products/badminton-racquets/
+2017-09-27 13:12:44 [info] Find pages: 1 
+2017-09-27 13:12:44 [info] Waiting for collect pages: 1 
+2017-09-27 13:12:44 [info] Collected pages: 0 
+2017-09-27 13:12:45 [debug] Success download page http://www.yonex.cn/sports/products/badminton-racquets/ in 1.041 s
+2017-09-27 13:12:46 [debug] Find content page: http://www.yonex.cn/sports/products/product/ARC11CH
+2017-09-27 13:12:46 [debug] Find content page: http://www.yonex.cn/sports/products/product/17NR10GE
+2017-09-27 13:12:46 [debug] Success process page http://www.yonex.cn/sports/products/badminton-racquets/ in 1.26 s
+2017-09-27 13:12:46 [info] Spider running in 0d 0h 0m 2s
+2017-09-27 13:12:46 [info] Find pages: 3 
+2017-09-27 13:12:46 [info] Waiting for collect pages: 2 
+2017-09-27 13:12:46 [info] Collected pages: 1 
+2017-09-27 13:12:47 [debug] Success download page http://www.yonex.cn/sports/products/product/ARC11CH in 1.845 s
+2017-09-27 13:12:48 [info] Result[1]: {"series":"弓剑系列（ARCSABER )","name":"ARCSABER 11","description":"添加新型杯状纳米碳素管，精确控制，有效进攻。","habitat":"日本","code":"ARC11CH","weight":"3U","Grip":"G4,5"}
+2017-09-27 13:12:48 [debug] Success process page http://www.yonex.cn/sports/products/product/ARC11CH in 1.923 s
+2017-09-27 13:12:48 [info] Spider running in 0d 0h 0m 4s
+2017-09-27 13:12:48 [info] Find pages: 3 
+2017-09-27 13:12:48 [info] Waiting for collect pages: 1 
+2017-09-27 13:12:48 [info] Collected pages: 2 
+2017-09-27 13:12:48 [debug] Success download page http://www.yonex.cn/sports/products/product/17NR10GE in 0.156 s
+2017-09-27 13:12:48 [info] Result[2]: {"series":"锐速系列（NANORAY）","name":"NANORAY 10 (2017)","description":"","habitat":"中国台湾","code":"17NR10GE","weight":"4U","Grip":"G4,5"}
+2017-09-27 13:12:48 [debug] Success process page http://www.yonex.cn/sports/products/product/17NR10GE in 0.236 s
+2017-09-27 13:12:48 [info] Spider running in 0d 0h 0m 4s
